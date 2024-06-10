@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_customization">
+    <sys_ux_theme_customization action="INSERT_OR_UPDATE">
+        <customization>{"colors":[{"id":"--now-color_background--primary","value":"0, 255, 0","type":"color_hook_overridden"}],"feedback":[],"groupName":""}</customization>
+        <name>Raiffeisen App-Test</name>
+        <sys_class_name>sys_ux_theme_customization</sys_class_name>
+        <sys_created_by>wzbsza</sys_created_by>
+        <sys_created_on>2024-06-05 05:43:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5f234c6e9766c610b4b27ca0f053affd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Raiffeisen App-Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RBI Theme" source="43b2482697a2c610b4b27ca0f053af9a">43b2482697a2c610b4b27ca0f053af9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">43b2482697a2c610b4b27ca0f053af9a</sys_scope>
+        <sys_update_name>sys_ux_theme_customization_5f234c6e9766c610b4b27ca0f053affd</sys_update_name>
+        <sys_updated_by>wzbsza</sys_updated_by>
+        <sys_updated_on>2024-06-05 05:48:08</sys_updated_on>
+        <theme display_value="Raiffeisen App-Test">8323002e9766c610b4b27ca0f053af70</theme>
+    </sys_ux_theme_customization>
+</record_update>
